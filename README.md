@@ -1,2 +1,1 @@
-# ETL_Using_Scala
-Simple ETL Using Scala
+# Simple ETL Using Scala
